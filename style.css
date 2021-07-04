@@ -353,8 +353,7 @@ footer .container .copy{
 }
 /* media query for header section  */
 
-/* // Small devices (landscape phones, 576px and up) */
-/* @media screen  and(min-width: 576px) { ... } */
+
 
 /* // Medium devices (tablets, 768px and up) */
 @media screen  and (min-width: 700px) {
@@ -592,10 +591,7 @@ footer .container .copy{
     } 
  }
 
-/* // XX-Large devices (larger desktops, 1400px and up) */
-@media screen  and(min-width: 1400px) { 
 
- }
 
 
 
